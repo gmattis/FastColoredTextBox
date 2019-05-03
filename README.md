@@ -1,6 +1,8 @@
 FastColoredTextBox
 ==================
 
+### This is an updated version of Splamy's fork (https://github.com/Splamy/FastColoredTextBox) allowing compiling with Mono
+
 Fast Colored TextBox is text editor component for .NET.
 Allows you to create custom text editor with syntax highlighting.
 It works well with small, medium, large and very-very large files.
